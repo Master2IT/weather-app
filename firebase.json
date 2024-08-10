@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "source": "./weather-app/build",
     "public": "public",
     "ignore": [
       "firebase.json",
