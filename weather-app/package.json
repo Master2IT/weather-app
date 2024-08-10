@@ -140,6 +140,11 @@
       "react-app"
     ]
   },
+  "author": {
+    "name": "Mehran Mahdavi",
+    "email": "mahdavi2it@gmail.com",
+    "url": "https://github.com/master2it"
+  },
   "eslintConfig": {
     "extends": "react-app"
   }
