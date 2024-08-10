@@ -1,0 +1,14 @@
+#landing-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#weather-app-container {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+#weather-summary {
+    margin-top: 20px;
+}
