@@ -1,5 +1,19 @@
 {
   "projects": {
     "default": "weather-app-114ce"
-  }
+  },
+  "targets": {
+    "weather-app-114ce": {
+      "hosting": {
+        "landing-page": [
+          "weather-app-114ce"
+        ],
+        "weather-app": [
+          "weather-app-api-46e47"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
