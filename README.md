@@ -37,7 +37,7 @@ This is a React-based weather app that provides current weather conditions based
 
 ## Deployment
 
-- The app can be deployed using Firebase Hosting or any static hosting service.
+- (https://weather-app-114ce.firebaseapp.com/)
 
 ## License
 
